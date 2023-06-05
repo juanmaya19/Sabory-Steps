@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="username_required">Please enter your username</string>
+    <string name="password_required">Please enter your password</string>
+    <string name="login_success">Login successful</string>
+    <string name="login_error">Incorrect username or password</string>
+    <string name="registration_success">Your registration has been completed successfully.</string>
+    <string name="name_error">Please enter a valid name.</string>
+    <string name="email_error">Please enter a valid email address.</string>
+    <string name="password_error">Please enter a valid password.</string>
+    <string name="confirm_password_error">Passwords do not match.</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="cancel">Back</string>
+    <string name="name_hint">Name</string>
+    <string name="email_hint">Email</string>
+    <string name="register_title">Register User</string>
+    <string name="login_title">Start of section</string>
+    <string name="app_name">Savory Steps</string>
+    <string name="username_hint">User</string>
+    <string name="password_hint">Password</string>
+    <string name="register_button">Register</string>
+    <string name="login_button">Login</string>
+    <string name="save">Login</string>
+    <string name="register">Register</string>
+    <string name="delete">Delete</string>
+    <string name="consult">Consult Users</string>
+    <string name="login_successful">Login Successfull</string>
+    <string name="incorrect_password">Incorrect Password</string>
+    <string name="database_error">Database Error</string>
+    <string name="user_not_registered">User not Registered</string>
+    <string name="registration_error">Registration Error</string>
+    <string name="users_title" />
+    <string name="ok_button" />
+</resources>

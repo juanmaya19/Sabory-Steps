@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="username_required">Por favor, ingrese su nombre de usuario</string>
+    <string name="password_required">Por favor, introduzca su contraseña</string>
+    <string name="login_success">Inicio de sesión exitoso</string>
+    <string name="login_error">Nombre de usuario o contraseña incorrecta</string>
+    <string name="registration_success">Su registro se ha completado con éxito.</string>
+    <string name="name_error">Por favor ingrese un nombre valido.</string>
+    <string name="email_error">Por favor, introduce una dirección de correo electrónico válida.</string>
+    <string name="password_error">Por favor introduce una contraseña válida.</string>
+    <string name="confirm_password_error">Las contraseñas no coinciden.</string>
+    <string name="confirm_password_hint">Confirmar Contraseña</string>
+    <string name="cancel">Atras</string>
+    <string name="name_hint">Nombre</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="register_title">Registrar usuario</string>
+    <string name="login_title">Inicio de sección</string>
+    <string name="app_name">Savory Steps</string>
+    <string name="username_hint">Usuario</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="register_button">Registrar</string>
+    <string name="login_button">Acceso</string>
+    <string name="save">Acceso</string>
+    <string name="register">Registrar</string>
+    <string name="delete">Eliminar</string>
+    <string name="consult">Consultar Usuarios</string>
+    <string name="login_successful">Inicio de sesión exitoso</string>
+    />
+    <string name="incorrect_password">Incorrect Password</string>
+    <string name="database_error">Error de la base de datos</string>
+    <string name="user_not_registered">Usuario no registrado</string>
+    <string name="registration_error">error de registro</string>
+    <string name="users_title" />
+    <string name="ok_button" />
+    <string name="user_deleted" />
+    <string name="user_delete_error" />
+    <string name="user_id_error" />
+    <string name="todo">TODO</string>
+    <string name="error_empty_field" />
+    <string name="favorite_button" />
+</resources>
